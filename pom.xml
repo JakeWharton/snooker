@@ -11,7 +11,7 @@
 
   <groupId>com.jakewharton</groupId>
   <artifactId>snooker</artifactId>
-  <version>1.0.0</version>
+  <version>1.0.1-SNAPSHOT</version>
 
   <name>Snooker</name>
   <description>Object pools and utilities for using and implementing them.</description>
@@ -26,7 +26,7 @@
     <url>http://github.com/JakeWharton/snooker/</url>
     <connection>scm:git:git://github.com/JakeWharton/snooker.git</connection>
     <developerConnection>scm:git:ssh://git@github.com/JakeWharton/snooker.git</developerConnection>
-    <tag>snooker-1.0.0</tag>
+    <tag>HEAD</tag>
   </scm>
 
   <issueManagement>
